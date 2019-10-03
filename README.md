@@ -1,4 +1,6 @@
 The project is an example of a web crawler in Python.
+The package used is BeautifulSoup.
+
 The input to the code is a base-url. The code then starts crawling the base-url and creates 2 files:
 Crawled.txt and Queue.txt.
 
